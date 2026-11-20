@@ -1,0 +1,18 @@
+{
+  "name": "easeweb",
+  "displayName": "EaseWeb",
+  "version": "1.0.0",
+  "description": "Create, edit, present, and review interactive web presentations on EaseWeb (easeweb.host): build full slide decks with text, tables, shapes, navigation buttons, images, and live runnable SQL/Python/Bash/MongoDB/Redis/ClickHouse code, export to PDF or PowerPoint, and leave slide review notes.",
+  "logo": "assets/logo.png",
+  "author": {
+    "name": "EaseWeb",
+    "url": "https://easeweb.host"
+  },
+  "homepage": "https://easeweb.host/docs/mcp/",
+  "repository": "https://github.com/svyatoslavoh/gospel",
+  "suggestedPrompts": [
+    "Create an EaseWeb presentation of 6 slides about PostgreSQL indexes with a runnable SQL lab and an interactive agenda slide",
+    "Review my EaseWeb presentation and leave constructive notes on slides that need clearer visuals or wording",
+    "List my EaseWeb presentations and projects, then add navigation buttons between the lessons in my course"
+  ]
+}
