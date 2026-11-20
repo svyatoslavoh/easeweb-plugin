@@ -9,7 +9,7 @@
     "url": "https://easeweb.host"
   },
   "homepage": "https://easeweb.host/docs/mcp/",
-  "repository": "https://github.com/svyatoslavoh/gospel",
+  "repository": "https://github.com/svyatoslavoh/easeweb-plugin",
   "suggestedPrompts": [
     "Create an EaseWeb presentation of 6 slides about PostgreSQL indexes with a runnable SQL lab and an interactive agenda slide",
     "Review my EaseWeb presentation and leave constructive notes on slides that need clearer visuals or wording",

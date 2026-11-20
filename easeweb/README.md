@@ -15,7 +15,7 @@ Connect your Antigravity agent directly to **[EaseWeb](https://easeweb.host)** â
 ### From GitHub (via Antigravity CLI)
 
 ```bash
-agy plugin install https://github.com/svyatoslavoh/gospel
+agy plugin install https://github.com/svyatoslavoh/easeweb-plugin
 ```
 
 ### Local Validation & Testing
